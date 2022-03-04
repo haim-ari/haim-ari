@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on building a time machine. 🤔
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/haimari/)
+- 👯 I’m looking to collaborate on [awesome.devops-lab](https://awesome.devops-lab.dev)
+- Oh, and feel free to check out my other website [TekBeep](https://tekbeep.com) to get the most recent Tech news
+
+
+
 <!--
 **haim-ari/haim-ari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
