@@ -1,7 +1,9 @@
 <div align="center">
 
 <a href="https://dkod.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Haim+Ari;Building+the+agent-native+code+platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=false&width=650&height=45&lines=Haim+Ari" alt="Name" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2000&pause=1000000&color=9CA3AF&center=true&vCenter=true&repeat=false&delay=2800&width=650&height=30&lines=Building+the+agent-native+code+platform" alt="Tagline" />
 </a>
 
 <br>
@@ -52,13 +54,36 @@ Rewrote a production Java platform in Rust in 2.5 days with AI doing the coding 
 
 ## Tech
 
-```
-Languages       Rust · TypeScript · Go · Python
-Infrastructure  Kubernetes · Docker · AWS · Terraform
-Data            PostgreSQL · Redis · gRPC · Protobuf
-Frontend        React · Vite · Tailwind
-AI/Agents       MCP · Tree-sitter · Tantivy
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="110"><b>Languages</b></td>
+<td>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,ts,go,py&theme=dark" alt="Languages" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="110"><b>Infra</b></td>
+<td>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,terraform&theme=dark" alt="Infrastructure" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="110"><b>Data</b></td>
+<td>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,graphql,kafka&theme=dark" alt="Data" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="110"><b>Frontend</b></td>
+<td>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,html&theme=dark" alt="Frontend" /></a>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
