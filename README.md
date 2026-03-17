@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://dkod.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Haim+Ari;Building+the+agent-native+code+platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Haim+Ari;Building+the+agent-native+code+platform" alt="Typing SVG" />
 </a>
 
 <br>
@@ -52,18 +52,13 @@ Rewrote a production Java platform in Rust in 2.5 days with AI doing the coding 
 
 ## Tech
 
-<p>
-  <img src="https://img.shields.io/badge/Rust-06b6d4?style=flat-square&labelColor=0f0f14&logo=rust&logoColor=06b6d4" alt="Rust">&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square&labelColor=0f0f14&logo=typescript&logoColor=06b6d4" alt="TypeScript">&nbsp;
-  <img src="https://img.shields.io/badge/Go-06b6d4?style=flat-square&labelColor=0f0f14&logo=go&logoColor=06b6d4" alt="Go">&nbsp;
-  <img src="https://img.shields.io/badge/Python-06b6d4?style=flat-square&labelColor=0f0f14&logo=python&logoColor=06b6d4" alt="Python">&nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-06b6d4?style=flat-square&labelColor=0f0f14&logo=kubernetes&logoColor=06b6d4" alt="Kubernetes">&nbsp;
-  <img src="https://img.shields.io/badge/Docker-06b6d4?style=flat-square&labelColor=0f0f14&logo=docker&logoColor=06b6d4" alt="Docker">&nbsp;
-  <img src="https://img.shields.io/badge/gRPC-06b6d4?style=flat-square&labelColor=0f0f14&logo=grpc&logoColor=06b6d4" alt="gRPC">&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-06b6d4?style=flat-square&labelColor=0f0f14&logo=postgresql&logoColor=06b6d4" alt="PostgreSQL">&nbsp;
-  <img src="https://img.shields.io/badge/React-06b6d4?style=flat-square&labelColor=0f0f14&logo=react&logoColor=06b6d4" alt="React">&nbsp;
-  <img src="https://img.shields.io/badge/AWS-06b6d4?style=flat-square&labelColor=0f0f14&logo=amazonwebservices&logoColor=06b6d4" alt="AWS">
-</p>
+```
+Languages       Rust · TypeScript · Go · Python
+Infrastructure  Kubernetes · Docker · AWS · Terraform
+Data            PostgreSQL · Redis · gRPC · Protobuf
+Frontend        React · Vite · Tailwind
+AI/Agents       MCP · Tree-sitter · Tantivy
+```
 
 ---
 
