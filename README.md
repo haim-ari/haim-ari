@@ -99,10 +99,7 @@ I write about AI-assisted engineering, platform architecture, and building with 
 <div align="center">
 
 <a href="https://github.com/haim-ari">
-  <img src="https://github-readme-stats.vercel.app/api?username=haim-ari&show_icons=true&hide_border=true&theme=transparent&title_color=06b6d4&text_color=9ca3af&icon_color=06b6d4&bg_color=0f0f14&hide_title=true&hide_rank=true" height="150" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/haim-ari">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=haim-ari&theme=transparent&hide_border=true&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=9ca3af&currStreakNum=f0f0f3&sideNums=f0f0f3&dates=4a4a5a&background=0f0f14" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=haim-ari&theme=transparent&hide_border=true&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=9ca3af&currStreakNum=f0f0f3&sideNums=f0f0f3&dates=4a4a5a&background=0f0f14" height="180" alt="GitHub Streak" />
 </a>
 
 <br>
