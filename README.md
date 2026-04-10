@@ -25,7 +25,7 @@
 ## What I'm Building
 
 <a href="https://github.com/dkod-io/dkod-engine">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=dkod-io&repo=dkod-engine&theme=transparent&hide_border=true&title_color=06b6d4&text_color=9ca3af&icon_color=06b6d4&bg_color=0f0f14" alt="dkod-engine" />
+  <img align="right" src="https://raw.githubusercontent.com/dkod-io/dkod-engine/main/.github/assets/banner-dark.svg" width="340" alt="dkod — Agent-native code platform" />
 </a>
 
 **[dkod](https://dkod.io)** — the open-source, agent-native code platform.
