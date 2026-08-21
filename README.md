@@ -3,7 +3,7 @@
 <a href="https://dkod.ai">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=false&width=650&height=45&lines=Haim+Ari" alt="Name" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2000&pause=1000000&color=9CA3AF&center=true&vCenter=true&repeat=false&delay=2800&width=650&height=30&lines=Building+the+agent-native+code+platform" alt="Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2000&pause=1000000&color=9CA3AF&center=true&vCenter=true&repeat=false&delay=2800&width=650&height=30&lines=Building+the+governed+build+pipeline+for+AI-built+apps" alt="Tagline" />
 </a>
 
 <br>
@@ -14,8 +14,7 @@
 <br>
 
 <a href="https://linkedin.com/in/haimari"><img src="https://img.shields.io/badge/LinkedIn-haimari-06b6d4?style=for-the-badge&labelColor=0f0f14&logo=linkedin&logoColor=06b6d4" alt="LinkedIn"></a>&nbsp;
-<a href="https://twitter.com/dkod_io"><img src="https://img.shields.io/badge/Twitter-@dkod__io-06b6d4?style=for-the-badge&labelColor=0f0f14&logo=x&logoColor=06b6d4" alt="Twitter"></a>&nbsp;
-<a href="https://discord.gg/q2xzuNDJ"><img src="https://img.shields.io/badge/Discord-dkod-06b6d4?style=for-the-badge&labelColor=0f0f14&logo=discord&logoColor=06b6d4" alt="Discord"></a>&nbsp;
+<a href="https://twitter.com/dkod_ai"><img src="https://img.shields.io/badge/X-@dkod__ai-06b6d4?style=for-the-badge&labelColor=0f0f14&logo=x&logoColor=06b6d4" alt="X"></a>&nbsp;
 <a href="https://vantageacademy.io"><img src="https://img.shields.io/badge/Blog-Vantage_Academy-06b6d4?style=for-the-badge&labelColor=0f0f14&logo=hashnode&logoColor=06b6d4" alt="Blog"></a>
 
 </div>
@@ -24,23 +23,21 @@
 
 ## What I'm Building
 
-<a href="https://github.com/dkod-io/dkod-engine">
-  <img align="right" src="https://raw.githubusercontent.com/dkod-io/dkod-engine/main/.github/assets/banner-dark.svg" width="340" alt="dkod — Agent-native code platform" />
-</a>
+**[dkod](https://dkod.ai)** — the governed build pipeline for AI-built internal apps.
 
-**[dkod](https://dkod.ai)** — the open-source, agent-native code platform.
+Across organizations, employees are vibe-coding internal tools that ship with no git, no auth, and secrets sitting in `.env` files. IT cannot see them, so IT cannot govern them. DKOD finds those apps, scores the risk, and rebuilds the ones that qualify from approved templates, in your own cloud.
 
-Multiple AI agents. One codebase. Zero conflicts.
+Three parts. Find the apps first, then rebuild the ones worth keeping.
 
-Session isolation, semantic merging, and a verification pipeline — so AI agents can write, review, and ship code together.
+&bull;&nbsp; **dkod-signals** — one static Rust binary, pushed by MDM to every macOS, Windows and Linux device. It runs once at low priority, inventories the apps built by Claude Code, Codex, Cursor and other agents, scores each for risk, and writes one metrics-only JSON report. It never uploads, never phones home, and never executes what it finds. *Available today.*<br>
+&bull;&nbsp; **Aggregation and reporting** — rolls the per-device reports into an org-wide picture of AI-app risk. *Coming.*<br>
+&bull;&nbsp; **The governed build pipeline** — rebuilds qualifying apps from hardened templates, with deterministic gates and human approval by risk tier. Anything outside the envelope gets a named blocker instead of a silent skip. *Early access.*
 
-Works with Cursor, Claude Code, Cline, Windsurf, Codex, and any MCP agent.
+Nothing leaves your infrastructure without consent. Metrics-only by default.
 
 <a href="https://dkod.ai"><img src="https://img.shields.io/badge/dkod.ai-website-06b6d4?style=flat-square&labelColor=0f0f14" alt="Website"></a>&nbsp;
-<a href="https://dkod.ai/docs"><img src="https://img.shields.io/badge/docs-getting_started-06b6d4?style=flat-square&labelColor=0f0f14" alt="Docs"></a>&nbsp;
-<a href="https://dkod.ai/blog"><img src="https://img.shields.io/badge/blog-deep_dives-06b6d4?style=flat-square&labelColor=0f0f14" alt="Blog"></a>
-
-<br clear="right">
+<a href="https://dkod.ai/download"><img src="https://img.shields.io/badge/dkod--signals-available_today-06b6d4?style=flat-square&labelColor=0f0f14" alt="dkod-signals"></a>&nbsp;
+<a href="https://dkod.ai/blog"><img src="https://img.shields.io/badge/blog-AI_app_governance-06b6d4?style=flat-square&labelColor=0f0f14" alt="Blog"></a>
 
 ---
 
@@ -48,7 +45,7 @@ Works with Cursor, Claude Code, Cline, Windsurf, Codex, and any MCP agent.
 
 15+ years building platforms at scale — AdTech, cloud infrastructure, Kubernetes, CI/CD, and high-throughput data pipelines. Currently at **[Start.io](https://start.io)**.
 
-Rewrote a production Java platform in Rust in 2.5 days with AI doing the coding autonomously. That experience — and the merge conflicts that came with it — led directly to building dkod.
+Rewrote a production Java platform in Rust in 2.5 days, with AI doing the coding autonomously. What stuck with me afterwards was not the speed. It was realising how much software gets built this way now, by people who are not engineers, with nothing checking it and nobody keeping a list. That is what DKOD is for.
 
 ---
 
@@ -92,7 +89,7 @@ Rewrote a production Java platform in Rust in 2.5 days with AI doing the coding 
 I write about AI-assisted engineering, platform architecture, and building with AI agents at scale.
 
 &bull;&nbsp; **[Vantage Academy](https://vantageacademy.io)** — AI engineering blog<br>
-&bull;&nbsp; **[dkod Blog](https://dkod.ai/blog)** — agent-native development deep dives
+&bull;&nbsp; **[dkod Blog](https://dkod.ai/blog)** — AI-app governance and the agentic SDLC
 
 ---
 
