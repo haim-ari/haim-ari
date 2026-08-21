@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://dkod.io">
+<a href="https://dkod.ai">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=false&width=650&height=45&lines=Haim+Ari" alt="Name" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2000&pause=1000000&color=9CA3AF&center=true&vCenter=true&repeat=false&delay=2800&width=650&height=30&lines=Building+the+agent-native+code+platform" alt="Tagline" />
@@ -28,7 +28,7 @@
   <img align="right" src="https://raw.githubusercontent.com/dkod-io/dkod-engine/main/.github/assets/banner-dark.svg" width="340" alt="dkod — Agent-native code platform" />
 </a>
 
-**[dkod](https://dkod.io)** — the open-source, agent-native code platform.
+**[dkod](https://dkod.ai)** — the open-source, agent-native code platform.
 
 Multiple AI agents. One codebase. Zero conflicts.
 
@@ -36,9 +36,9 @@ Session isolation, semantic merging, and a verification pipeline — so AI agent
 
 Works with Cursor, Claude Code, Cline, Windsurf, Codex, and any MCP agent.
 
-<a href="https://dkod.io"><img src="https://img.shields.io/badge/dkod.io-website-06b6d4?style=flat-square&labelColor=0f0f14" alt="Website"></a>&nbsp;
-<a href="https://dkod.io/docs"><img src="https://img.shields.io/badge/docs-getting_started-06b6d4?style=flat-square&labelColor=0f0f14" alt="Docs"></a>&nbsp;
-<a href="https://dkod.io/blog"><img src="https://img.shields.io/badge/blog-deep_dives-06b6d4?style=flat-square&labelColor=0f0f14" alt="Blog"></a>
+<a href="https://dkod.ai"><img src="https://img.shields.io/badge/dkod.ai-website-06b6d4?style=flat-square&labelColor=0f0f14" alt="Website"></a>&nbsp;
+<a href="https://dkod.ai/docs"><img src="https://img.shields.io/badge/docs-getting_started-06b6d4?style=flat-square&labelColor=0f0f14" alt="Docs"></a>&nbsp;
+<a href="https://dkod.ai/blog"><img src="https://img.shields.io/badge/blog-deep_dives-06b6d4?style=flat-square&labelColor=0f0f14" alt="Blog"></a>
 
 <br clear="right">
 
@@ -92,7 +92,7 @@ Rewrote a production Java platform in Rust in 2.5 days with AI doing the coding 
 I write about AI-assisted engineering, platform architecture, and building with AI agents at scale.
 
 &bull;&nbsp; **[Vantage Academy](https://vantageacademy.io)** — AI engineering blog<br>
-&bull;&nbsp; **[dkod Blog](https://dkod.io/blog)** — agent-native development deep dives
+&bull;&nbsp; **[dkod Blog](https://dkod.ai/blog)** — agent-native development deep dives
 
 ---
 
@@ -105,6 +105,6 @@ I write about AI-assisted engineering, platform architecture, and building with 
 <br>
 <br>
 
-<sub>Building infrastructure for the age of AI agents &bull; <a href="https://dkod.io">dkod.io</a></sub>
+<sub>Building infrastructure for the age of AI agents &bull; <a href="https://dkod.ai">dkod.ai</a></sub>
 
 </div>
